@@ -8,3 +8,7 @@ export_report.json
 testfire.json
 
 export_report.json
+
+
+/venv
+.DS_Store
